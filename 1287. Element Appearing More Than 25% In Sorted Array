@@ -12,4 +12,4 @@ public int findSpecialInteger(int[] arr) {
         }
 
         return 0;
-    }
+}
